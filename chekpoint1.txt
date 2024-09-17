@@ -1,0 +1,11 @@
+saction 1:
+web developpemnt basic:
+le developpemnt web est le processus de creation et de gestion des sites internet et d'application web. il est essentiel dans le contexte de l'internet car il permet de creer les applications et les sites que les utilisateurs consultent.
+html Knowledge:
+je sais juste que html est une langage de balisage qu ont peut l'utiliser pour creer des page web
+Section 2: Familiarity with CSS
+section 3:JavaScript and Its Importance
+Section 4: Introduction to React and Node.js
+pour les sections 2  3 et 4, j ai aucune idée
+Section 5: Bonus Question
+je voulais etudier le developpemnt web car c'est un domaine demander sur la marché mondial
