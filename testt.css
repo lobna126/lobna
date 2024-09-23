@@ -1,0 +1,25 @@
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    width: 100%;   
+    display: block;
+
+}
+
+#circle
+{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    animation: coloring 7s infinite;
+}
+
+@keyframes coloring {
+    0% {background-color: blue;}
+    50% {background-color: red; transform: translateX(500px);border-radius: 0;}
+    70% {background-color: burlywood;transform: translateY(50px);}
+    100% {background-color: blue;}
+}

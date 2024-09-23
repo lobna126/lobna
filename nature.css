@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Nature</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Beauté de la Nature</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Les Forêts</h2>
+            <p>Les forêts sont des écosystèmes riches en biodiversité.</p>
+        </section>
+        <section>
+            <h2>Les Montagnes</h2>
+            <p>Les montagnes offrent des paysages spectaculaires et des habitats uniques.</p>
+        </section>
+        <section>
+            <h2>Les Océans</h2>
+            <p>Les océans couvrent plus de 70% de notre planète et abritent une variété de vie marine.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Nature Enthusiast</p>
+    </footer>
+</body>
+</html>
